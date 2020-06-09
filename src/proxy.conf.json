@@ -1,0 +1,7 @@
+{
+  "/features/": {
+    "target": "https://halavliva.herokuapp.com/",
+    "secure": false,
+    "logLevel": "debug"
+  }
+}
