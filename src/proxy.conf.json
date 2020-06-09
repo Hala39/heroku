@@ -1,6 +1,6 @@
 {
   "/features/": {
-    "target": "https://halavliva.herokuapp.com/",
+    "target": "https://halavliva.herokuapp.com",
     "secure": false,
     "logLevel": "debug"
   }
